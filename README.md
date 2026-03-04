@@ -1,6 +1,8 @@
 # useOnline
 
-A simple and lightweight custom React hook to detect browser online and offline status in real-time.
+A lightweight React hook to detect internet connection status (online/offline) in real-time.
+
+This hook helps React developers easily track browser network status changes.
 
 ---
 

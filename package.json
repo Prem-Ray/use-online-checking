@@ -9,13 +9,22 @@
     ".": "./index.js"
   },
   "keywords": [
-    "react",
-    "react-hook",
-    "custom-hook",
-    "network",
-    "online",
-    "offline"
-  ],
+  "react",
+  "react-hook",
+  "custom-hook",
+  "useOnline",
+  "online-status",
+  "offline-detection",
+  "internet-connection",
+  "network-status",
+  "react-online-hook",
+  "isOnline",
+  "isOffline",
+  "checkOffline",
+  "checkOnline",
+  "checkUserOnline",
+  "checkUserOffline"
+],
   "peerDependencies": {
     "react": ">=16.8"
   },

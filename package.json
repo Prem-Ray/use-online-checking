@@ -1,6 +1,6 @@
 {
   "name": "use-online-checking",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Lightweight React hook to detect online/offline network status in real time.",
   "main": "src/index.js",
   "keywords": [

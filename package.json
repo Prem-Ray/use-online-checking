@@ -1,6 +1,6 @@
 {
   "name": "use-online-checking",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lightweight React hook to detect online/offline network status in real time.",
   "main": "src/index.js",
   "keywords": [
@@ -16,7 +16,7 @@
   },
   "author": {
     "name": "Premanshu Ray",
-    "email" : "premanshuray981@gmail.com",
+    "email": "premanshuray981@gmail.com",
     "url": "https://github.com/Prem-Ray"
   },
   "license": "MIT"
